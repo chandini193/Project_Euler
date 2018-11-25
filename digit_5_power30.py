@@ -1,3 +1,4 @@
+#https://projecteuler.net/problem=30
 def power_4sum(n):
     s = 0
     t = n
